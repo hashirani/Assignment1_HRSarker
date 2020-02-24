@@ -1,0 +1,101 @@
+    body {
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+    }
+    
+    h1 {
+        font-size: 30px;
+    }
+    
+    .orange-hilight {
+        color: fuchsia;
+    }
+    
+    .half-width {
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    
+    .half-width img {
+        width: 70%;
+    }
+    
+    .top-banner {
+        background-image: url("other/hed.png");
+        background-repeat: no-repeat;
+    }
+    
+    section {
+        height: 500px;
+        padding-bottom: 50px;
+    }
+    
+    .link-button {
+        text-decoration: none;
+        background-image: linear-gradient( lightSalmon, tomato);
+        padding: 10px 20px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        color: white;
+        font-weight: 700;
+    }
+    
+    .second-banner {
+        background-image: url("other/bio.png");
+        background-repeat: no-repeat;
+    }
+    
+    .hi-top img {
+        width: 100%;
+    }
+    
+    .hi-top {
+        width: 29%;
+        float: left;
+        padding-left: 2%;
+        margin: 1%;
+    }
+    
+    .third-top {
+        background-image: url("other/late.png");
+        background-position: top;
+    }
+    
+    .mini-top {
+        text-align: center;
+        margin-top: 50px;
+    }
+    
+    .experience-area {
+        background-image: url("other/foo.png");
+        background-repeat: no-repeat;
+    }
+    
+    .low-top {
+        text-align: center;
+    }
+    
+    #second-stack {
+        width: 600px;
+        height: 150px;
+        background-color: tomato;
+        border-radius: 10px;
+        position: relative;
+        left: 390px;
+        color: white;
+        padding-top: 15px;
+        text-align: center;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+    }
+    
+    footer {
+        text-align: center;
+    }
